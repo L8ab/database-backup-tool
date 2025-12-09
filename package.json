@@ -1,0 +1,10 @@
+{
+  "name": "database-backup-tool",
+  "version": "1.0.0",
+  "description": "Database Backup Tool by L8ab Systems",
+  "main": "src/backup.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {}
+}
