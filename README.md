@@ -1,15 +1,26 @@
-# 💾 Database Backup Tool
+# Database Backup Tool
 
-Automated database backup solution.
+Automated database backup tool with scheduling and compression.
 
 ## Features
-- Multi-database support
-- Scheduled backups
-- Incremental backups
-- Compression and encryption
-- Cloud storage integration
-- Restore automation
+
+- Multiple database support (MySQL, PostgreSQL, MongoDB)
+- Automated scheduling
+- Compression support
+- Cloud storage integration ready
+
+## Installation
+
+\`\`\`bash
+npm install
+\`\`\`
+
+## Usage
+
+\`\`\`bash
+npm start
+\`\`\`
 
 ---
 
-**POWERED BY L8AB SYSTEMS** ⚡
+**POWERED BY L8AB SYSTEMS**
